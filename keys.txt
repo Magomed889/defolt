@@ -1,2 +1,2 @@
-Vashod,
-Negr
+vashod,
+negr
